@@ -1,8 +1,6 @@
-# 안녕하세요!🙌 &nbsp;<strong>신입 백엔드 개발자 장효선입니다!</strong><br>
+# Hi there!🙌 
 
-<br>
 
-* * *
 
 # 🛠 Tech Stack
 
