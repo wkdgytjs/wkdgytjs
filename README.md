@@ -29,7 +29,7 @@
         <img 
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://instagram.com/leejieuns2/>
     </a>
-    <a href = "https://www.notion.so/162fa5fc395f498db64a874f5ca591a7?pvs=4"> 
+    <a href = "https://guttural-eyebrow-89d.notion.site/cfc360a8a0984eafbb85f7dd4696b943"> 
         <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
     </a>    
 </div>
