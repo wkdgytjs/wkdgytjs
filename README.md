@@ -27,14 +27,10 @@
 <div align="center">
     <a href="mailto:gytjs513563@gmail.com">
         <img 
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://instagram.com/leejieuns2/
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/
             "style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
     </a>
-    <a href="mailto:gytjs513563@gmail.com">
-        <img 
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://instagram.com/leejieuns2/
-            "style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
-    </a>
+ 
     <a href = "https://www.notion.so/162fa5fc395f498db64a874f5ca591a7?pvs=4"> 
         <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
     </a> 
