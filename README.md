@@ -27,11 +27,11 @@
 <div align="center">
     
     <a href="mailto:gytjs513563@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=Gmail&logoColor=ffffff"/>
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gytjs513563@gmail.com&logoColor=ffffff"/>
     </a>
  
     <a href = "https://guttural-eyebrow-89d.notion.site/cfc360a8a0984eafbb85f7dd4696b943"> 
-        <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
+        <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Portfolio&logoColor=ffffff"/>
     </a>  
    
 </div>
