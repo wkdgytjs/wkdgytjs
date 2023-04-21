@@ -26,8 +26,7 @@
 
 <div align="center">
     <a href="mailto:gytjs513563@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-0000ff?style=for-the-badge&logo=Gmail&logoColor=ff0000"/
-            "style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+        <img src="https://img.shields.io/badge/Gmail-0000ff?style=for-the-badge&logo=Gmail&logoColor=ff0000"/>
     </a>
  
     <a href = "https://www.notion.so/162fa5fc395f498db64a874f5ca591a7?pvs=4"> 
