@@ -30,10 +30,7 @@
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://instagram.com/leejieuns2/
             "style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
     </a>
-    <a href = "https://guttural-eyebrow-89d.notion.site/cfc360a8a0984eafbb85f7dd4696b943"> 
-        <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/
-        "style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
-    </a>    
+   
 </div>
 
 
