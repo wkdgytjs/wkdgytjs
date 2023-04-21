@@ -23,8 +23,8 @@
 
 
 <h3 align="center">  🙋🏻‍♀️ Contact me </h3>
-
-
+[![Portfolio Badge](https://img.shields.io/badge/gytjs513563@gmail.com-ffffff?style=flat-square&logo=Notion&logoColor=black&link=mailto:gytjs513563@gmail.com)](mailto:gytjs513563@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/162fa5fc395f498db64a874f5ca591a7?pvs=4)](https://www.notion.so/162fa5fc395f498db64a874f5ca591a7?pvs=4)
 
 
 
