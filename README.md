@@ -31,7 +31,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> <a href="https://www.notion.so/162fa5fc395f498db64a874f5ca591a7?pvs=4">
     <img 
-        src="http://img.shields.io/badge/Notion-black?style=flat&logo=Notion&link=https://www.notion.so/162fa5fc395f498db64a874f5ca591a7?pvs=4"
+        src="http://img.shields.io/badge/Notion-black?style=flat&logo=Portfolio&link=https://www.notion.so/162fa5fc395f498db64a874f5ca591a7?pvs=4"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 </div>
